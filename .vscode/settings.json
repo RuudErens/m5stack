@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ethernet_init.h": "c"
+    },
+    "idf.adapterTargetName": "esp32",
+    "idf.portWin": "COM4"
+}
